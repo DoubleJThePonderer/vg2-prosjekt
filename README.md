@@ -2,9 +2,9 @@
 
 ## 1. Forside
 
-**Prosjekttittel:**\
-**Navn:**\
-**Klasse:**\
+**Prosjekttittel: Login system**\
+**Navn: Johannes**\ 
+**Klasse: 2IMI**\
 **Dato:**
 
 **Kort beskrivelse av prosjektet:**\
