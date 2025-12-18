@@ -14,7 +14,7 @@ et lett login system kopiert fra en guide
 ## 2. Systembeskrivelse
 
 **Formål med applikasjonen:**\
-bare lære noe
+bare lære noe\
 **Brukerflyt:**\
 *Beskriv hvordan brukeren bruker løsningen -- fra startside til lagring
 av data.*
