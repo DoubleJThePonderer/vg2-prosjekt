@@ -5,19 +5,16 @@
 **Prosjekttittel: Login system**\
 **Navn: Johannes**\ 
 **Klasse: 2IMI**\
-**Dato:**
+**Dato: 14.12.2025**
 
 **Kort beskrivelse av prosjektet:**\
-*Skriv 2--4 setninger om hva applikasjonen gjør og hvilket tema den
-bygger på.*
-
+et lett login system kopiert fra en guide
 ------------------------------------------------------------------------
 
 ## 2. Systembeskrivelse
 
 **Formål med applikasjonen:**\
-*Forklar hva du ønsket å oppnå med prosjektet.*
-
+bare lære noe
 **Brukerflyt:**\
 *Beskriv hvordan brukeren bruker løsningen -- fra startside til lagring
 av data.*
